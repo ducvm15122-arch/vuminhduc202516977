@@ -1,4 +1,4 @@
-git-tutorials
+
 echo "# vuminhduc202516977" >> README.md
 git init
 git add README.md
